@@ -1,0 +1,3302 @@
+[
+    {
+        "id": "headlines100516",
+        "query": "Consider whether the headline references past prices of gold.. In the context of gold, is there a PastPrice implied in the news headline? Respond with Yes or No.\nText: Gold prices to trade lower Angel Commodities\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "PastPrice"
+    },
+    {
+        "id": "headlines90928",
+        "query": "Look for indications that the price of gold is increasing.. Does the news headline indicate a Direction Up in the context of gold commodities? Your answer should be Yes or No.\nText: sell mcx gold june; target of rs 26550-26400: achiievers\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Up"
+    },
+    {
+        "id": "headlines91319",
+        "query": "Look for any mention of future gold prices.. Can a FuturePrice in the gold market be inferred from the news headline? Your response should be either Yes or No.\nText: gold futures climb over 2% in afternoon dealings\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FuturePrice"
+    },
+    {
+        "id": "headlines92487",
+        "query": "Look for indications that the price of gold is stable.. In the context of gold, is there a Direction Constant implied in the news headline? Respond with Yes or No.\nText: gold up on firm oil prices firm, economic concerns\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Constant"
+    },
+    {
+        "id": "headlines101071",
+        "query": "Look for indications that the price of gold is increasing.. Does the news headline provide information on a Direction Up regarding gold? Your answer should be either Yes or No.\nText: gold closes higher for first time in three sessions\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "Direction Up"
+    },
+    {
+        "id": "headlines91137",
+        "query": "Look for indications that the price of gold is stable.. Does the news headline provide information on a Direction Constant regarding gold? Your answer should be either Yes or No.\nText: longer cycles for gold and the us dollar\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Constant"
+    },
+    {
+        "id": "headlines94104",
+        "query": "Consider whether the headline mentions the price of gold.. Does the news headline provide information on a Price or Not regarding gold? Your answer should be either Yes or No.\nText: ride this equity rollercoaster, there is a pot of gold at the end: nilesh shah\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Price or Not"
+    },
+    {
+        "id": "headlines86845",
+        "query": "Consider whether the headline references past prices of gold.. Does the news headline mention anything about a PastPrice in gold commodities? Please answer Yes or No.\nText: gold trades lower in early trade on profit booking; brokerages bullish\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "PastPrice"
+    },
+    {
+        "id": "headlines86066",
+        "query": "Consider if the headline compares gold with other assets.. Is there a Asset Comparision in the gold commodity market indicated in the news headline? Please answer Yes or No.\nText: gold pares gain as dollar gains some steam\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "Asset Comparision"
+    },
+    {
+        "id": "headlines83285",
+        "query": "Consider if the headline compares gold with other assets.. Is the news headline discussing a Asset Comparision related to gold? Please respond with Yes or No.\nText: june gold down $1.30, or 0.1%, to settle at $1,185.60/oz on comex\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Asset Comparision"
+    },
+    {
+        "id": "headlines97678",
+        "query": "Look for indications that the price of gold is increasing.. Does the news headline mention anything about a Direction Up in gold commodities? Please answer Yes or No.\nText: Gold falls to Rs 29,300; silver down at Rs 39,150\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Up"
+    },
+    {
+        "id": "headlines84130",
+        "query": "Look for any references to future events concerning gold.. Is there a mention of a FutureNews in relation to gold in the news headline? Please answer with Yes or No.\nText: gold rises over $10 to above $850 on inflation concerns\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FutureNews"
+    },
+    {
+        "id": "headlines89937",
+        "query": "Consider whether the headline mentions the price of gold.. Can a Price or Not in the gold market be inferred from the news headline? Your response should be either Yes or No.\nText: Gold turns higher ahead of closing bell to notch a modest gain\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "Price or Not"
+    },
+    {
+        "id": "headlines102176",
+        "query": "Consider if the headline compares gold with other assets.. Is there a mention of a Asset Comparision in relation to gold in the news headline? Please answer with Yes or No.\nText: gold rebounds; oil falls below $99\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "Asset Comparision"
+    },
+    {
+        "id": "headlines100421",
+        "query": "Consider if the headline compares gold with other assets.. In the news headline, can you identify a Asset Comparision pertaining to gold? Your response should be Yes or No.\nText: buy gold -  gold bears press bets in record numbers\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Asset Comparision"
+    },
+    {
+        "id": "headlines91790",
+        "query": "Consider if the headline compares gold with other assets.. Does the news headline mention anything about a Asset Comparision in gold commodities? Please answer Yes or No.\nText: april gold ends up $4.50 at $980.50 an ounce on nymex\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Asset Comparision"
+    },
+    {
+        "id": "headlines95192",
+        "query": "Consider if the headline compares gold with other assets.. Is the news headline discussing a Asset Comparision related to gold? Please respond with Yes or No.\nText: Gold prices end lower, give back nearly half of their recent rally\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Asset Comparision"
+    },
+    {
+        "id": "headlines87145",
+        "query": "Look for any references to future events concerning gold.. Is there a mention of a FutureNews in relation to gold in the news headline? Please answer with Yes or No.\nText: Gold gains as worsening Sino-US trade tensions dent risk appetite\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FutureNews"
+    },
+    {
+        "id": "headlines99825",
+        "query": "Consider whether the headline discusses past events related to gold.. In the news headline, can you identify a PastNews pertaining to gold? Your response should be Yes or No.\nText: gold ends higher on senate budget, debt proposal\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "PastNews"
+    },
+    {
+        "id": "headlines93839",
+        "query": "Look for any mention of future gold prices.. Does the news headline suggest a FuturePrice for gold? Your response should be Yes or No.\nText: gold reverses lower as safe-haven demand ebbs\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FuturePrice"
+    },
+    {
+        "id": "headlines85934",
+        "query": "Look for indications that the price of gold is decreasing.. Is the news headline discussing a Direction Down related to gold? Please respond with Yes or No.\nText: Gold prices inch down as global political tensions ease\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "Direction Down"
+    },
+    {
+        "id": "headlines91210",
+        "query": "Consider whether the headline references past prices of gold.. Is there a PastPrice in the gold commodity market indicated in the news headline? Please answer Yes or No.\nText: investors rush in for gold exchange-traded funds\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "PastPrice"
+    },
+    {
+        "id": "headlines98733",
+        "query": "Look for indications that the price of gold is stable.. Does the news headline provide information on a Direction Constant regarding gold? Your answer should be either Yes or No.\nText: Bearish trend may continue in gold\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Constant"
+    },
+    {
+        "id": "headlines93595",
+        "query": "Consider whether the headline references past prices of gold.. Is there a PastPrice in the gold commodity market indicated in the news headline? Please answer Yes or No.\nText: gold, silver slip in morning trade\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "PastPrice"
+    },
+    {
+        "id": "headlines90340",
+        "query": "Look for any references to future events concerning gold.. Is there a mention of a FutureNews in relation to gold in the news headline? Please answer with Yes or No.\nText: gold, silver trade lower in morning trade\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FutureNews"
+    },
+    {
+        "id": "headlines98032",
+        "query": "Consider whether the headline references past prices of gold.. Is there a mention of a PastPrice in relation to gold in the news headline? Please answer with Yes or No.\nText: Gold prices to trade sideways: Angel Commodities\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "PastPrice"
+    },
+    {
+        "id": "headlines92367",
+        "query": "Consider whether the headline mentions the price of gold.. Does the news headline mention anything about a Price or Not in gold commodities? Please answer Yes or No.\nText: gold up $5.30 at $597.90 an ounce\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "Price or Not"
+    },
+    {
+        "id": "headlines91088",
+        "query": "Consider if the headline compares gold with other assets.. Can a Asset Comparision in the gold market be inferred from the news headline? Your response should be either Yes or No.\nText: gold futures end lower, as u.s. dollar rises vs. rivals\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "Asset Comparision"
+    },
+    {
+        "id": "headlines86045",
+        "query": "Look for any mention of future gold prices.. Is there a mention of a FuturePrice in relation to gold in the news headline? Please answer with Yes or No.\nText: gold prices dip in asia with euro, greece political turmoil eyed\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FuturePrice"
+    },
+    {
+        "id": "headlines95741",
+        "query": "Consider if the headline compares gold with other assets.. Does the news headline provide information on a Asset Comparision regarding gold? Your answer should be either Yes or No.\nText: Expect Gold to trade negative: Sushil Finance\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Asset Comparision"
+    },
+    {
+        "id": "headlines89187",
+        "query": "Consider whether the headline discusses past events related to gold.. Is there a mention of a PastNews in relation to gold in the news headline? Please answer with Yes or No.\nText: gold futures up 0.22 pc on firm global cues, spot demand\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "PastNews"
+    },
+    {
+        "id": "headlines89718",
+        "query": "Consider whether the headline discusses past events related to gold.. In the news headline, can you identify a PastNews pertaining to gold? Your response should be Yes or No.\nText: gold settles 0.9% lower at $1,529.20 an ounce\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "PastNews"
+    },
+    {
+        "id": "headlines101895",
+        "query": "Consider whether the headline discusses past events related to gold.. Does the news headline mention anything about a PastNews in gold commodities? Please answer Yes or No.\nText: dec. gold falls 40 cents to $646.50/oz in morning trading\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "PastNews"
+    },
+    {
+        "id": "headlines97304",
+        "query": "Look for any mention of future gold prices.. Is there a FuturePrice in the gold commodity market indicated in the news headline? Please answer Yes or No.\nText: gold falls to two-month low as oil tumbles\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FuturePrice"
+    },
+    {
+        "id": "headlines87942",
+        "query": "Look for indications that the price of gold is stable.. Does the news headline provide information on a Direction Constant regarding gold? Your answer should be either Yes or No.\nText: gold hits 4-month low, slips rs 180 on overseas trend\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Constant"
+    },
+    {
+        "id": "headlines101349",
+        "query": "Consider whether the headline mentions the price of gold.. In the news headline, can you identify a Price or Not pertaining to gold? Your response should be Yes or No.\nText: gold up as floor trade reopens, logs october loss\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "Price or Not"
+    },
+    {
+        "id": "headlines99269",
+        "query": "Consider if the headline compares gold with other assets.. In the news headline, can you identify a Asset Comparision pertaining to gold? Your response should be Yes or No.\nText: gold higher as irish bailout doesn’t quell worries\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Asset Comparision"
+    },
+    {
+        "id": "headlines93425",
+        "query": "Look for any mention of future gold prices.. Can a FuturePrice in the gold market be inferred from the news headline? Your response should be either Yes or No.\nText: gundlach sees an unusual trend in gold\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FuturePrice"
+    },
+    {
+        "id": "headlines94335",
+        "query": "Consider whether the headline discusses past events related to gold.. Is there a mention of a PastNews in relation to gold in the news headline? Please answer with Yes or No.\nText: philly gold and silver index up 2% on day, up 3% on wk\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "PastNews"
+    },
+    {
+        "id": "headlines82886",
+        "query": "Look for any mention of future gold prices.. In the context of gold, is there a FuturePrice implied in the news headline? Respond with Yes or No.\nText: gold futures fall, but gain almost 11% year to date\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FuturePrice"
+    },
+    {
+        "id": "headlines86443",
+        "query": "Look for any references to future events concerning gold.. In the context of gold, is there a FutureNews implied in the news headline? Respond with Yes or No.\nText: Gold futures pare loss as ICE U.S. Dollar Index falls to session lows\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FutureNews"
+    },
+    {
+        "id": "headlines92785",
+        "query": "Consider whether the headline references past prices of gold.. Is there a mention of a PastPrice in relation to gold in the news headline? Please answer with Yes or No.\nText: Expect Gold to trade sideways: Sushil Finance\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "PastPrice"
+    },
+    {
+        "id": "headlines89706",
+        "query": "Look for indications that the price of gold is stable.. Is the news headline discussing a Direction Constant related to gold? Please respond with Yes or No.\nText: Gold / Silver / Copper futures - weekly outlook: July 18 - 22\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Constant"
+    },
+    {
+        "id": "headlines102058",
+        "query": "Look for any references to future events concerning gold.. In the news headline, can you identify a FutureNews pertaining to gold? Your response should be Yes or No.\nText: comex gold gains a bit more after u.s. ism data\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FutureNews"
+    },
+    {
+        "id": "headlines97914",
+        "query": "Look for indications that the price of gold is stable.. Is there a Direction Constant in the gold commodity market indicated in the news headline? Please answer Yes or No.\nText: gold inches higher as asian stocks slip\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Constant"
+    },
+    {
+        "id": "headlines86187",
+        "query": "Look for indications that the price of gold is stable.. Does the news headline mention anything about a Direction Constant in gold commodities? Please answer Yes or No.\nText: gold edges lower as markets prepare for fed rate hike\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Constant"
+    },
+    {
+        "id": "headlines82858",
+        "query": "Consider whether the headline references past prices of gold.. Can a PastPrice in the gold market be inferred from the news headline? Your response should be either Yes or No.\nText: mcx goldm october contract trades lower\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "PastPrice"
+    },
+    {
+        "id": "headlines83826",
+        "query": "Consider whether the headline mentions the price of gold.. Does the news headline provide information on a Price or Not regarding gold? Your answer should be either Yes or No.\nText: Gold futures rise to Rs 27,790 on global cues\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "Price or Not"
+    },
+    {
+        "id": "headlines84417",
+        "query": "Consider whether the headline discusses past events related to gold.. Is the news headline discussing a PastNews related to gold? Please respond with Yes or No.\nText: Gold prices settle at highest level in nearly 6 weeks\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "PastNews"
+    },
+    {
+        "id": "headlines88925",
+        "query": "Look for any mention of future gold prices.. Does the news headline indicate a FuturePrice in the context of gold commodities? Your answer should be Yes or No.\nText: Gold maintains slight gain after ECB keeps monetary policy unchanged\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FuturePrice"
+    },
+    {
+        "id": "headlines89924",
+        "query": "Look for any mention of future gold prices.. Is there a FuturePrice in the gold commodity market indicated in the news headline? Please answer Yes or No.\nText: gold up on weak eco data, deferred tapering of fed stimulus\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FuturePrice"
+    },
+    {
+        "id": "headlines101706",
+        "query": "Consider whether the headline discusses past events related to gold.. Can a PastNews in the gold market be inferred from the news headline? Your response should be either Yes or No.\nText: cboe gold index closes at 97.03, down 1.8%\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "PastNews"
+    },
+    {
+        "id": "headlines97875",
+        "query": "Consider whether the headline mentions the price of gold.. Is the news headline discussing a Price or Not related to gold? Please respond with Yes or No.\nText: mcx goldpetal january contract slips\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "Price or Not"
+    },
+    {
+        "id": "headlines99850",
+        "query": "Consider whether the headline references past prices of gold.. Is there a PastPrice in the gold commodity market indicated in the news headline? Please answer Yes or No.\nText: Gold marks highest finish since late September 2016\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "PastPrice"
+    },
+    {
+        "id": "headlines97482",
+        "query": "Look for indications that the price of gold is stable.. Can a Direction Constant in the gold market be inferred from the news headline? Your response should be either Yes or No.\nText: June gold up $5, or 0.4%, at $1,229.40/oz.\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Constant"
+    },
+    {
+        "id": "headlines102510",
+        "query": "Consider whether the headline mentions the price of gold.. In the news headline, can you identify a Price or Not pertaining to gold? Your response should be Yes or No.\nText: turkey’s attempt to mop up mattress gold\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "Price or Not"
+    },
+    {
+        "id": "headlines98465",
+        "query": "Look for any mention of future gold prices.. Does the news headline indicate a FuturePrice in the context of gold commodities? Your answer should be Yes or No.\nText: MCX GOLDGUINEA Nov contract declines\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FuturePrice"
+    },
+    {
+        "id": "headlines85181",
+        "query": "Look for any mention of future gold prices.. Does the news headline provide information on a FuturePrice regarding gold? Your answer should be either Yes or No.\nText: april gold gains $5.30, or 0.4%, to $1,355.20/oz\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FuturePrice"
+    },
+    {
+        "id": "headlines91747",
+        "query": "Look for indications that the price of gold is increasing.. Can a Direction Up in the gold market be inferred from the news headline? Your response should be either Yes or No.\nText: Gold prices settle at highest in more than 2 weeks\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "Direction Up"
+    },
+    {
+        "id": "headlines102343",
+        "query": "Consider whether the headline references past prices of gold.. Is there a PastPrice in the gold commodity market indicated in the news headline? Please answer Yes or No.\nText: Gold prices add to slight decline after PPI\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "PastPrice"
+    },
+    {
+        "id": "headlines87019",
+        "query": "Look for any references to future events concerning gold.. Is the news headline discussing a FutureNews related to gold? Please respond with Yes or No.\nText: Gold prices to trade higher today: Angel Commodities\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FutureNews"
+    },
+    {
+        "id": "headlines82908",
+        "query": "Consider whether the headline mentions the price of gold.. Is there a mention of a Price or Not in relation to gold in the news headline? Please answer with Yes or No.\nText: gold output in key countries to slump to ‘generational’ lows — report\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Price or Not"
+    },
+    {
+        "id": "headlines91135",
+        "query": "Look for indications that the price of gold is increasing.. Can a Direction Up in the gold market be inferred from the news headline? Your response should be either Yes or No.\nText: longer cycles for gold and the us dollar\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Up"
+    },
+    {
+        "id": "headlines100635",
+        "query": "Consider whether the headline discusses past events related to gold.. Does the news headline indicate a PastNews in the context of gold commodities? Your answer should be Yes or No.\nText: Gold ends slightly higher following a recent drop to three-week lows\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "PastNews"
+    },
+    {
+        "id": "headlines98283",
+        "query": "Look for indications that the price of gold is stable.. Is the news headline discussing a Direction Constant related to gold? Please respond with Yes or No.\nText: Gold futures down at Rs 30,893 per 10 gm\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Constant"
+    },
+    {
+        "id": "headlines101577",
+        "query": "Look for indications that the price of gold is stable.. Is there a Direction Constant in the gold commodity market indicated in the news headline? Please answer Yes or No.\nText: point72 : nobody is paying much attention to gold for now\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Constant"
+    },
+    {
+        "id": "headlines94654",
+        "query": "Look for indications that the price of gold is increasing.. Is there a mention of a Direction Up in relation to gold in the news headline? Please answer with Yes or No.\nText: goldcorp: 2007 gold production up 35% to 2.29 mln ounces\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Up"
+    },
+    {
+        "id": "headlines87088",
+        "query": "Consider whether the headline references past prices of gold.. Can a PastPrice in the gold market be inferred from the news headline? Your response should be either Yes or No.\nText: gold ends modestly higher on weaker dollar\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "PastPrice"
+    },
+    {
+        "id": "headlines86331",
+        "query": "Look for indications that the price of gold is stable.. In the news headline, can you identify a Direction Constant pertaining to gold? Your response should be Yes or No.\nText: gold drops below $1,400, ends near two week low\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Constant"
+    },
+    {
+        "id": "headlines99315",
+        "query": "Consider whether the headline mentions the price of gold.. Does the news headline indicate a Price or Not in the context of gold commodities? Your answer should be Yes or No.\nText: Gold settles lower, then edges up in electronic trade after Fed Beige Book\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "Price or Not"
+    },
+    {
+        "id": "headlines98016",
+        "query": "Consider whether the headline discusses past events related to gold.. Does the news headline provide information on a PastNews regarding gold? Your answer should be either Yes or No.\nText: Gold Prices Steady on Dollar Weakness as Q3 GDP Cools\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "PastNews"
+    },
+    {
+        "id": "headlines96605",
+        "query": "Consider if the headline compares gold with other assets.. Does the news headline indicate a Asset Comparision in the context of gold commodities? Your answer should be Yes or No.\nText: december gold finishes $8, or 0.7%, lower at $1,115.60 an ounce\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Asset Comparision"
+    },
+    {
+        "id": "headlines91537",
+        "query": "Look for any references to future events concerning gold.. Does the news headline indicate a FutureNews in the context of gold commodities? Your answer should be Yes or No.\nText: Gold Prices Slip for Two Consecutive Days on Stronger Dollar\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FutureNews"
+    },
+    {
+        "id": "headlines102213",
+        "query": "Consider whether the headline mentions the price of gold.. Does the news headline mention anything about a Price or Not in gold commodities? Please answer Yes or No.\nText: china’s gold supply deficit widens over jan-sept\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Price or Not"
+    },
+    {
+        "id": "headlines82505",
+        "query": "Look for indications that the price of gold is decreasing.. Does the news headline mention anything about a Direction Down in gold commodities? Please answer Yes or No.\nText: gold, silver pull back from their more than two-decade highs\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "Direction Down"
+    },
+    {
+        "id": "headlines94187",
+        "query": "Look for indications that the price of gold is decreasing.. Does the news headline mention anything about a Direction Down in gold commodities? Please answer Yes or No.\nText: mcx goldguinea sept contract declines\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "Direction Down"
+    },
+    {
+        "id": "headlines102449",
+        "query": "Look for indications that the price of gold is decreasing.. In the context of gold, is there a Direction Down implied in the news headline? Respond with Yes or No.\nText: June gold falls $5.90, or 0.5%, to settle at $1,252.80/oz\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "Direction Down"
+    },
+    {
+        "id": "headlines92465",
+        "query": "Consider if the headline compares gold with other assets.. In the news headline, can you identify a Asset Comparision pertaining to gold? Your response should be Yes or No.\nText: charts : the gold price inverse head-and-shoulders pattern is classic\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Asset Comparision"
+    },
+    {
+        "id": "headlines99250",
+        "query": "Look for any references to future events concerning gold.. Is there a FutureNews in the gold commodity market indicated in the news headline? Please answer Yes or No.\nText: gold futures up rs 34 as participants create position\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FutureNews"
+    },
+    {
+        "id": "headlines93279",
+        "query": "Look for indications that the price of gold is stable.. Is the news headline discussing a Direction Constant related to gold? Please respond with Yes or No.\nText: june gold gains $2.80, or 0.2%, to finish at $1,254/oz.\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Constant"
+    },
+    {
+        "id": "headlines96219",
+        "query": "Consider whether the headline mentions the price of gold.. Does the news headline mention anything about a Price or Not in gold commodities? Please answer Yes or No.\nText: gold weaker, copper down as july china pmi final falls\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "Price or Not"
+    },
+    {
+        "id": "headlines85588",
+        "query": "Look for any references to future events concerning gold.. Is there a FutureNews in the gold commodity market indicated in the news headline? Please answer Yes or No.\nText: gold futures rise after u.s. jobs report\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FutureNews"
+    },
+    {
+        "id": "headlines86064",
+        "query": "Consider whether the headline discusses past events related to gold.. Can a PastNews in the gold market be inferred from the news headline? Your response should be either Yes or No.\nText: gold pares gain as dollar gains some steam\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "PastNews"
+    },
+    {
+        "id": "headlines92395",
+        "query": "Look for indications that the price of gold is increasing.. Does the news headline indicate a Direction Up in the context of gold commodities? Your answer should be Yes or No.\nText: august gold down $5.10, or 0.4%, to settle at $1,251/oz\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Up"
+    },
+    {
+        "id": "headlines84397",
+        "query": "Consider whether the headline references past prices of gold.. Is there a PastPrice in the gold commodity market indicated in the news headline? Please answer Yes or No.\nText: december gold closes $3.90, or 0.4%, lower at $1,081/oz\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "PastPrice"
+    },
+    {
+        "id": "headlines88738",
+        "query": "Look for any references to future events concerning gold.. Does the news headline indicate a FutureNews in the context of gold commodities? Your answer should be Yes or No.\nText: Firm dollar caps gold rise, investors eye G20 summit\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FutureNews"
+    },
+    {
+        "id": "headlines98768",
+        "query": "Look for indications that the price of gold is decreasing.. Is there a Direction Down in the gold commodity market indicated in the news headline? Please answer Yes or No.\nText: Gold Rate Today: Gold rises in futures trade; up 0.54% on global cues\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Down"
+    },
+    {
+        "id": "headlines82331",
+        "query": "Consider if the headline compares gold with other assets.. Is there a Asset Comparision in the gold commodity market indicated in the news headline? Please answer Yes or No.\nText: buy mcx gold dec; target rs 26945/27070: way2wealth\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Asset Comparision"
+    },
+    {
+        "id": "headlines88869",
+        "query": "Look for indications that the price of gold is stable.. Does the news headline indicate a Direction Constant in the context of gold commodities? Your answer should be Yes or No.\nText: gold down by rs 50 on sluggish demand, weak global cues\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Constant"
+    },
+    {
+        "id": "headlines82896",
+        "query": "Consider whether the headline discusses past events related to gold.. In the context of gold, is there a PastNews implied in the news headline? Respond with Yes or No.\nText: feb gold down 60c at $422.70/oz in afternoon dealings\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "PastNews"
+    },
+    {
+        "id": "headlines84582",
+        "query": "Consider whether the headline mentions the price of gold.. In the context of gold, is there a Price or Not implied in the news headline? Respond with Yes or No.\nText: around 1,500 workers rescued from gold mine: report\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Price or Not"
+    },
+    {
+        "id": "headlines100293",
+        "query": "Consider whether the headline discusses past events related to gold.. Is there a PastNews in the gold commodity market indicated in the news headline? Please answer Yes or No.\nText: Gold declines 0.4%, sealing first monthly loss since May\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "PastNews"
+    },
+    {
+        "id": "headlines102318",
+        "query": "Consider whether the headline discusses past events related to gold.. Does the news headline mention anything about a PastNews in gold commodities? Please answer Yes or No.\nText: bad for stocks, good for gold?\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "PastNews"
+    },
+    {
+        "id": "headlines85799",
+        "query": "Look for indications that the price of gold is decreasing.. Is the news headline discussing a Direction Down related to gold? Please respond with Yes or No.\nText: june gold finishes at $907.90/oz, down $17.90, or 1.9%\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "Direction Down"
+    },
+    {
+        "id": "headlines82266",
+        "query": "Consider whether the headline discusses past events related to gold.. Does the news headline mention anything about a PastNews in gold commodities? Please answer Yes or No.\nText: oil, gold pare gains after april ism factory index\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "PastNews"
+    },
+    {
+        "id": "headlines91958",
+        "query": "Look for any mention of future gold prices.. Does the news headline mention anything about a FuturePrice in gold commodities? Please answer Yes or No.\nText: april gold climbs $4 to $655.50/oz in morning trading\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FuturePrice"
+    },
+    {
+        "id": "headlines84270",
+        "query": "Look for indications that the price of gold is stable.. Does the news headline indicate a Direction Constant in the context of gold commodities? Your answer should be Yes or No.\nText: gold zooms by rs 685; hits over 1-month high on rbi measures\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Constant"
+    },
+    {
+        "id": "headlines86238",
+        "query": "Consider whether the headline mentions the price of gold.. Is there a mention of a Price or Not in relation to gold in the news headline? Please answer with Yes or No.\nText: google : “buy bitcoin” is lighting up google as cryptocurrency outshines gold\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "Price or Not"
+    },
+    {
+        "id": "headlines92046",
+        "query": "Look for indications that the price of gold is stable.. In the context of gold, is there a Direction Constant implied in the news headline? Respond with Yes or No.\nText: Gold prices rebound in Asia, China PMI data in focus\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Constant"
+    },
+    {
+        "id": "headlines91347",
+        "query": "Consider whether the headline discusses past events related to gold.. Does the news headline indicate a PastNews in the context of gold commodities? Your answer should be Yes or No.\nText: gold bulls await brexit turmoil to start rally\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "PastNews"
+    },
+    {
+        "id": "headlines85835",
+        "query": "Look for indications that the price of gold is decreasing.. Does the news headline suggest a Direction Down for gold? Your response should be Yes or No.\nText: gold ends lower, tracking longest weekly losing streak since june\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "Direction Down"
+    },
+    {
+        "id": "headlines84286",
+        "query": "Look for indications that the price of gold is increasing.. Does the news headline suggest a Direction Up for gold? Your response should be Yes or No.\nText: dec. gold gains $4.40, or 0.4%, to settle at $1,107.70/oz on comex\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "Direction Up"
+    },
+    {
+        "id": "headlines97669",
+        "query": "Look for indications that the price of gold is increasing.. Is the news headline discussing a Direction Up related to gold? Please respond with Yes or No.\nText: rbi has advised against selling gold coins: fm chidambaram\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Up"
+    },
+    {
+        "id": "headlines90531",
+        "query": "Consider whether the headline mentions the price of gold.. Is there a Price or Not in the gold commodity market indicated in the news headline? Please answer Yes or No.\nText: fed decision has little effect on oil, gold sectors\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Price or Not"
+    },
+    {
+        "id": "headlines90879",
+        "query": "Consider whether the headline discusses past events related to gold.. Is the news headline discussing a PastNews related to gold? Please respond with Yes or No.\nText: August gold trades up $5.90, or 0.5%, at $1,233.50/oz.\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "PastNews"
+    },
+    {
+        "id": "headlines84122",
+        "query": "Consider if the headline compares gold with other assets.. Does the news headline mention anything about a Asset Comparision in gold commodities? Please answer Yes or No.\nText: gold prices move higher\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Asset Comparision"
+    },
+    {
+        "id": "headlines90228",
+        "query": "Look for indications that the price of gold is stable.. Does the news headline provide information on a Direction Constant regarding gold? Your answer should be either Yes or No.\nText: Gold slightly trims gains after jobless-claims report\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Constant"
+    },
+    {
+        "id": "headlines92800",
+        "query": "Look for indications that the price of gold is increasing.. Does the news headline provide information on a Direction Up regarding gold? Your answer should be either Yes or No.\nText: plunging u.s. dollar has gold investors feeling great\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Up"
+    },
+    {
+        "id": "headlines95984",
+        "query": "Consider if the headline compares gold with other assets.. Does the news headline indicate a Asset Comparision in the context of gold commodities? Your answer should be Yes or No.\nText: buy crude & gold: kishore narne\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "Asset Comparision"
+    },
+    {
+        "id": "headlines86672",
+        "query": "Look for indications that the price of gold is decreasing.. Is the news headline discussing a Direction Down related to gold? Please respond with Yes or No.\nText: gold futures up; market eyes economic data, iraq\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Down"
+    },
+    {
+        "id": "headlines83575",
+        "query": "Look for indications that the price of gold is increasing.. In the context of gold, is there a Direction Up implied in the news headline? Respond with Yes or No.\nText: Feb. gold contract ends with a weekly loss of roughly 0.7%\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Up"
+    },
+    {
+        "id": "headlines84017",
+        "query": "Look for indications that the price of gold is decreasing.. Does the news headline suggest a Direction Down for gold? Your response should be Yes or No.\nText: Gold rebounds to Rs 28,550 on firm global cues, spot demand\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Down"
+    },
+    {
+        "id": "headlines87434",
+        "query": "Consider if the headline compares gold with other assets.. Does the news headline indicate a Asset Comparision in the context of gold commodities? Your answer should be Yes or No.\nText: gold ‘radically undervalued’ with price about to take off - expert\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Asset Comparision"
+    },
+    {
+        "id": "headlines83517",
+        "query": "Consider whether the headline discusses past events related to gold.. In the news headline, can you identify a PastNews pertaining to gold? Your response should be Yes or No.\nText: commerce secretary for review of import duty on gold\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "PastNews"
+    },
+    {
+        "id": "headlines91420",
+        "query": "Look for any references to future events concerning gold.. Is the news headline discussing a FutureNews related to gold? Please respond with Yes or No.\nText: gold holds to gains after ism data, at $1,229/oz\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FutureNews"
+    },
+    {
+        "id": "headlines97017",
+        "query": "Consider whether the headline discusses past events related to gold.. Is there a PastNews in the gold commodity market indicated in the news headline? Please answer Yes or No.\nText: gold futures for dec. delivery down $22.70-ounce\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "PastNews"
+    },
+    {
+        "id": "headlines92176",
+        "query": "Look for any references to future events concerning gold.. In the context of gold, is there a FutureNews implied in the news headline? Respond with Yes or No.\nText: soaring gold ends near six-year high\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FutureNews"
+    },
+    {
+        "id": "headlines96782",
+        "query": "Look for any mention of future gold prices.. Is there a FuturePrice in the gold commodity market indicated in the news headline? Please answer Yes or No.\nText: Gold prices to trade higher today: Angel Commodities\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "FuturePrice"
+    },
+    {
+        "id": "headlines88352",
+        "query": "Consider if the headline compares gold with other assets.. Is the news headline discussing a Asset Comparision related to gold? Please respond with Yes or No.\nText: Gold prices end the week 0.7% lower\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Asset Comparision"
+    },
+    {
+        "id": "headlines101552",
+        "query": "Look for any mention of future gold prices.. Does the news headline indicate a FuturePrice in the context of gold commodities? Your answer should be Yes or No.\nText: aug. gold settles at $1,173.60/oz on comex, up $5.50, or 0.5%\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FuturePrice"
+    },
+    {
+        "id": "headlines94686",
+        "query": "Consider whether the headline discusses past events related to gold.. Is there a PastNews in the gold commodity market indicated in the news headline? Please answer Yes or No.\nText: Gold prices to trade lower today: Angel Commodities\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "PastNews"
+    },
+    {
+        "id": "headlines98425",
+        "query": "Look for indications that the price of gold is increasing.. Can a Direction Up in the gold market be inferred from the news headline? Your response should be either Yes or No.\nText: gold prices end lower for a third straight session\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Up"
+    },
+    {
+        "id": "headlines91754",
+        "query": "Consider if the headline compares gold with other assets.. Is there a Asset Comparision in the gold commodity market indicated in the news headline? Please answer Yes or No.\nText: Gold prices settle at highest in more than 2 weeks\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Asset Comparision"
+    },
+    {
+        "id": "headlines93938",
+        "query": "Look for any mention of future gold prices.. Does the news headline mention anything about a FuturePrice in gold commodities? Please answer Yes or No.\nText: gold, silver gain on rising tension between us-north korea\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FuturePrice"
+    },
+    {
+        "id": "headlines97989",
+        "query": "Consider whether the headline discusses past events related to gold.. Is there a PastNews in the gold commodity market indicated in the news headline? Please answer Yes or No.\nText: mcx goldguinea august contract gains\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "PastNews"
+    },
+    {
+        "id": "headlines83347",
+        "query": "Look for any references to future events concerning gold.. Is there a mention of a FutureNews in relation to gold in the news headline? Please answer with Yes or No.\nText: cryptocurrencies may rival gold as a store of value - marketing analyst\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FutureNews"
+    },
+    {
+        "id": "headlines94652",
+        "query": "Consider if the headline compares gold with other assets.. In the news headline, can you identify a Asset Comparision pertaining to gold? Your response should be Yes or No.\nText: gold settles 2.7% lower at $1,594.80 an ounce\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Asset Comparision"
+    },
+    {
+        "id": "headlines100620",
+        "query": "Consider whether the headline mentions the price of gold.. Does the news headline suggest a Price or Not for gold? Your response should be Yes or No.\nText: No spurt in gold imports after removal of restrictions\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Price or Not"
+    },
+    {
+        "id": "headlines83037",
+        "query": "Look for indications that the price of gold is stable.. Is there a mention of a Direction Constant in relation to gold in the news headline? Please answer with Yes or No.\nText: commerzbank : gold to reclaim $1,300 an ounce by the end of 2018\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Constant"
+    },
+    {
+        "id": "headlines95364",
+        "query": "Consider whether the headline mentions the price of gold.. Is there a Price or Not in the gold commodity market indicated in the news headline? Please answer Yes or No.\nText: whither gold?\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Price or Not"
+    },
+    {
+        "id": "headlines100937",
+        "query": "Look for indications that the price of gold is decreasing.. Can a Direction Down in the gold market be inferred from the news headline? Your response should be either Yes or No.\nText: Gold slips below Rs 31K on US rate hike talk\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "Direction Down"
+    },
+    {
+        "id": "headlines101952",
+        "query": "Consider whether the headline mentions the price of gold.. Is there a Price or Not in the gold commodity market indicated in the news headline? Please answer Yes or No.\nText: gold continues slide amid positive greek developments, mixed u.s. data\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "Price or Not"
+    },
+    {
+        "id": "headlines101874",
+        "query": "Look for indications that the price of gold is stable.. Does the news headline indicate a Direction Constant in the context of gold commodities? Your answer should be Yes or No.\nText: stocks poised to keep outperforming gold: citi's levkovich\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Constant"
+    },
+    {
+        "id": "headlines87033",
+        "query": "Look for indications that the price of gold is stable.. Does the news headline provide information on a Direction Constant regarding gold? Your answer should be either Yes or No.\nText: buried treasure: a $34,500 gold coffin\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Constant"
+    },
+    {
+        "id": "headlines96016",
+        "query": "Consider whether the headline references past prices of gold.. In the context of gold, is there a PastPrice implied in the news headline? Respond with Yes or No.\nText: sharps pixley: gold etf inflows up sharply in april – wgc\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "PastPrice"
+    },
+    {
+        "id": "headlines95061",
+        "query": "Look for indications that the price of gold is stable.. Can a Direction Constant in the gold market be inferred from the news headline? Your response should be either Yes or No.\nText: Gold prices gain in Asia on political risk, Fed outlook weighs\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Constant"
+    },
+    {
+        "id": "headlines82701",
+        "query": "Consider whether the headline mentions the price of gold.. Can a Price or Not in the gold market be inferred from the news headline? Your response should be either Yes or No.\nText: Gold slips further, silver eases\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "Price or Not"
+    },
+    {
+        "id": "headlines84034",
+        "query": "Look for indications that the price of gold is increasing.. Does the news headline mention anything about a Direction Up in gold commodities? Please answer Yes or No.\nText: Gold imports set to fall on demand slowdown\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Up"
+    },
+    {
+        "id": "headlines92757",
+        "query": "Look for indications that the price of gold is stable.. Is the news headline discussing a Direction Constant related to gold? Please respond with Yes or No.\nText: dec gold rises $29.10 to $1,690.10/ounce\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Constant"
+    },
+    {
+        "id": "headlines96744",
+        "query": "Look for indications that the price of gold is stable.. Is there a mention of a Direction Constant in relation to gold in the news headline? Please answer with Yes or No.\nText: gold price forecast: monthly-high on radar amid string of higher-lows\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Constant"
+    },
+    {
+        "id": "headlines85944",
+        "query": "Look for indications that the price of gold is stable.. Does the news headline provide information on a Direction Constant regarding gold? Your answer should be either Yes or No.\nText: gold ends below $1,000\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Constant"
+    },
+    {
+        "id": "headlines83368",
+        "query": "Look for indications that the price of gold is increasing.. Does the news headline provide information on a Direction Up regarding gold? Your answer should be either Yes or No.\nText: investing carries risks — even for gold\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Up"
+    },
+    {
+        "id": "headlines96654",
+        "query": "Look for indications that the price of gold is stable.. In the news headline, can you identify a Direction Constant pertaining to gold? Your response should be Yes or No.\nText: gold falls near one-week low\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Constant"
+    },
+    {
+        "id": "headlines100555",
+        "query": "Look for any references to future events concerning gold.. Does the news headline indicate a FutureNews in the context of gold commodities? Your answer should be Yes or No.\nText: Dec. gold loses $6.70, or 0.5%, to settle at $1,323.70/oz\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FutureNews"
+    },
+    {
+        "id": "headlines88947",
+        "query": "Consider whether the headline mentions the price of gold.. Is the news headline discussing a Price or Not related to gold? Please respond with Yes or No.\nText: gold could move towards $820 on pullback in dollar and falling crude oil\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "Price or Not"
+    },
+    {
+        "id": "headlines92919",
+        "query": "Look for indications that the price of gold is stable.. Does the news headline suggest a Direction Constant for gold? Your response should be Yes or No.\nText: Gold futures settle at their lowest level since February\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Constant"
+    },
+    {
+        "id": "headlines83488",
+        "query": "Consider whether the headline references past prices of gold.. In the context of gold, is there a PastPrice implied in the news headline? Respond with Yes or No.\nText: Gold futures up at Rs 28,169/10 grams\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "PastPrice"
+    },
+    {
+        "id": "headlines92683",
+        "query": "Look for indications that the price of gold is increasing.. Is there a Direction Up in the gold commodity market indicated in the news headline? Please answer Yes or No.\nText: Gold climbs Rs 80 to fresh high of Rs 31,115/10 gms\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "Direction Up"
+    },
+    {
+        "id": "headlines92763",
+        "query": "Consider whether the headline mentions the price of gold.. Is there a Price or Not in the gold commodity market indicated in the news headline? Please answer Yes or No.\nText: December gold trades 0.2% lower at $1,275.30/oz.\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "Price or Not"
+    },
+    {
+        "id": "headlines102642",
+        "query": "Consider whether the headline discusses past events related to gold.. Does the news headline indicate a PastNews in the context of gold commodities? Your answer should be Yes or No.\nText: gold gains in asia, copper jumps as china pmi surveys mixed\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "PastNews"
+    },
+    {
+        "id": "headlines82448",
+        "query": "Consider if the headline compares gold with other assets.. Can a Asset Comparision in the gold market be inferred from the news headline? Your response should be either Yes or No.\nText: Gold futures finish with a 5% loss for the week\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Asset Comparision"
+    },
+    {
+        "id": "headlines102624",
+        "query": "Consider whether the headline discusses past events related to gold.. Is the news headline discussing a PastNews related to gold? Please respond with Yes or No.\nText: Gold prices end the first half of the year roughly 7.9% higher\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "PastNews"
+    },
+    {
+        "id": "headlines101969",
+        "query": "Consider if the headline compares gold with other assets.. Is the news headline discussing a Asset Comparision related to gold? Please respond with Yes or No.\nText: silver tumbles by rs 5,500, gold down by rs 300 on global cues\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "Asset Comparision"
+    },
+    {
+        "id": "headlines100347",
+        "query": "Consider whether the headline discusses past events related to gold.. Is there a mention of a PastNews in relation to gold in the news headline? Please answer with Yes or No.\nText: june gold jumps $22.30, or 1.8%, to settle at $1,258.70/oz\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "PastNews"
+    },
+    {
+        "id": "headlines91375",
+        "query": "Look for any references to future events concerning gold.. Does the news headline indicate a FutureNews in the context of gold commodities? Your answer should be Yes or No.\nText: june gold down $1.20, or 0.1%, to settle at $1,305.60/oz\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FutureNews"
+    },
+    {
+        "id": "headlines98610",
+        "query": "Consider whether the headline discusses past events related to gold.. Does the news headline suggest a PastNews for gold? Your response should be Yes or No.\nText: June gold falls $1.70, or 0.1%, to settle at $1,226.90/oz\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "PastNews"
+    },
+    {
+        "id": "headlines100603",
+        "query": "Look for indications that the price of gold is increasing.. In the news headline, can you identify a Direction Up pertaining to gold? Your response should be Yes or No.\nText: feb. gold ends down $21.70, or 2.5%, at $857.80 an ounce\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Up"
+    },
+    {
+        "id": "headlines90446",
+        "query": "Look for any mention of future gold prices.. Is the news headline discussing a FuturePrice related to gold? Please respond with Yes or No.\nText: metals futures close lower; gold falls nearly $6\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FuturePrice"
+    },
+    {
+        "id": "headlines89749",
+        "query": "Look for indications that the price of gold is increasing.. Is there a mention of a Direction Up in relation to gold in the news headline? Please answer with Yes or No.\nText: dec. gold down 1.2% to $937.50 an ounce on globex\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Up"
+    },
+    {
+        "id": "headlines88735",
+        "query": "Consider whether the headline references past prices of gold.. Does the news headline indicate a PastPrice in the context of gold commodities? Your answer should be Yes or No.\nText: Firm dollar caps gold rise, investors eye G20 summit\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "PastPrice"
+    },
+    {
+        "id": "headlines82410",
+        "query": "Consider whether the headline discusses past events related to gold.. Is the news headline discussing a PastNews related to gold? Please respond with Yes or No.\nText: Gold miner ETF rises as futures look at highest settlement in 3 months\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "PastNews"
+    },
+    {
+        "id": "headlines96569",
+        "query": "Consider if the headline compares gold with other assets.. Can a Asset Comparision in the gold market be inferred from the news headline? Your response should be either Yes or No.\nText: august gold falls 0.5% to $951.90 an ounce\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Asset Comparision"
+    },
+    {
+        "id": "headlines96058",
+        "query": "Look for indications that the price of gold is increasing.. Is there a mention of a Direction Up in relation to gold in the news headline? Please answer with Yes or No.\nText: bullionvault : 2-3 year bull market in gold bullion 'to start late-2019' on dollar decline, end of fed rate hikes\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Up"
+    },
+    {
+        "id": "headlines100960",
+        "query": "Look for any references to future events concerning gold.. Can a FutureNews in the gold market be inferred from the news headline? Your response should be either Yes or No.\nText: Gold futures finish the week with a gain of roughly 1%\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FutureNews"
+    },
+    {
+        "id": "headlines95338",
+        "query": "Look for indications that the price of gold is increasing.. Can a Direction Up in the gold market be inferred from the news headline? Your response should be either Yes or No.\nText: gold etfs mushroom in india\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Up"
+    },
+    {
+        "id": "headlines96443",
+        "query": "Consider if the headline compares gold with other assets.. Does the news headline indicate a Asset Comparision in the context of gold commodities? Your answer should be Yes or No.\nText: Gold futures prices trade off session lows\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Asset Comparision"
+    },
+    {
+        "id": "headlines89574",
+        "query": "Consider whether the headline discusses past events related to gold.. Can a PastNews in the gold market be inferred from the news headline? Your response should be either Yes or No.\nText: nymex gold rallies back above $370\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "PastNews"
+    },
+    {
+        "id": "headlines89876",
+        "query": "Look for indications that the price of gold is decreasing.. Is the news headline discussing a Direction Down related to gold? Please respond with Yes or No.\nText: gold rate today: gold trades in the red in morning deals; silver up\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Down"
+    },
+    {
+        "id": "headlines94262",
+        "query": "Look for any mention of future gold prices.. In the news headline, can you identify a FuturePrice pertaining to gold? Your response should be Yes or No.\nText: comex gold up 0.9% on day, down 2.5% on week\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FuturePrice"
+    },
+    {
+        "id": "headlines94561",
+        "query": "Look for any references to future events concerning gold.. Does the news headline indicate a FutureNews in the context of gold commodities? Your answer should be Yes or No.\nText: spot gold quoted at $440.40 down 30c from new york\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FutureNews"
+    },
+    {
+        "id": "headlines98912",
+        "query": "Look for indications that the price of gold is decreasing.. In the news headline, can you identify a Direction Down pertaining to gold? Your response should be Yes or No.\nText: Gold edges up in electronic trading as Fed stands pat on interest rates\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Down"
+    },
+    {
+        "id": "headlines87587",
+        "query": "Consider if the headline compares gold with other assets.. Is there a mention of a Asset Comparision in relation to gold in the news headline? Please answer with Yes or No.\nText: spot gold quoted at $556.20 in asia trade\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Asset Comparision"
+    },
+    {
+        "id": "headlines91994",
+        "query": "Look for any mention of future gold prices.. In the context of gold, is there a FuturePrice implied in the news headline? Respond with Yes or No.\nText: central banks : gold demand up 42% in expectation of geopolitical shift\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FuturePrice"
+    },
+    {
+        "id": "headlines84053",
+        "query": "Look for indications that the price of gold is decreasing.. Can a Direction Down in the gold market be inferred from the news headline? Your response should be either Yes or No.\nText: Gold falls to Rs 30,750 on weak demand\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "Direction Down"
+    },
+    {
+        "id": "headlines93946",
+        "query": "Consider whether the headline references past prices of gold.. Does the news headline mention anything about a PastPrice in gold commodities? Please answer Yes or No.\nText: gold breaches new record above $1,084 an ounce\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "PastPrice"
+    },
+    {
+        "id": "headlines83574",
+        "query": "Consider whether the headline mentions the price of gold.. In the context of gold, is there a Price or Not implied in the news headline? Respond with Yes or No.\nText: Feb. gold contract ends with a weekly loss of roughly 0.7%\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "Price or Not"
+    },
+    {
+        "id": "headlines100083",
+        "query": "Look for indications that the price of gold is stable.. Can a Direction Constant in the gold market be inferred from the news headline? Your response should be either Yes or No.\nText: if china slows down u.s. debt buying, will gold rally or plunge?\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Constant"
+    },
+    {
+        "id": "headlines102144",
+        "query": "Look for indications that the price of gold is stable.. Is the news headline discussing a Direction Constant related to gold? Please respond with Yes or No.\nText: Gold edges off one-week low as Greece news knocks stocks\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Constant"
+    },
+    {
+        "id": "headlines101088",
+        "query": "Consider whether the headline mentions the price of gold.. Does the news headline provide information on a Price or Not regarding gold? Your answer should be either Yes or No.\nText: gold rebounces ahead of akshaya tritiya festival, silver down\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "Price or Not"
+    },
+    {
+        "id": "headlines93055",
+        "query": "Consider whether the headline references past prices of gold.. Does the news headline indicate a PastPrice in the context of gold commodities? Your answer should be Yes or No.\nText: Commodity outlook: Gold still feeling the squeeze from dollar\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "PastPrice"
+    },
+    {
+        "id": "headlines82704",
+        "query": "Look for indications that the price of gold is stable.. Is there a mention of a Direction Constant in relation to gold in the news headline? Please answer with Yes or No.\nText: Gold slips further, silver eases\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Constant"
+    },
+    {
+        "id": "headlines95901",
+        "query": "Consider whether the headline discusses past events related to gold.. Does the news headline provide information on a PastNews regarding gold? Your answer should be either Yes or No.\nText: gold for june delivery up $10.50, or 0.8%, to $1,313.50/oz\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "PastNews"
+    },
+    {
+        "id": "headlines90408",
+        "query": "Look for indications that the price of gold is stable.. Can a Direction Constant in the gold market be inferred from the news headline? Your response should be either Yes or No.\nText: gold steady ahead of fed meeting outcome\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "Direction Constant"
+    },
+    {
+        "id": "headlines99600",
+        "query": "Consider whether the headline discusses past events related to gold.. Can a PastNews in the gold market be inferred from the news headline? Your response should be either Yes or No.\nText: Gold futures finish lower ahead of Fed interest-rate decision\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "PastNews"
+    },
+    {
+        "id": "headlines90641",
+        "query": "Look for indications that the price of gold is decreasing.. Is there a Direction Down in the gold commodity market indicated in the news headline? Please answer Yes or No.\nText: india's gold demand falls 25% in q3\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "Direction Down"
+    },
+    {
+        "id": "headlines88456",
+        "query": "Consider whether the headline references past prices of gold.. Does the news headline indicate a PastPrice in the context of gold commodities? Your answer should be Yes or No.\nText: gold extends loss to second day after jobs data\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "PastPrice"
+    },
+    {
+        "id": "headlines102658",
+        "query": "Consider whether the headline references past prices of gold.. Does the news headline provide information on a PastPrice regarding gold? Your answer should be either Yes or No.\nText: February gold up $3.70, or 0.3%, at $1,134.40/oz.\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "PastPrice"
+    },
+    {
+        "id": "headlines101158",
+        "query": "Look for any references to future events concerning gold.. Is there a FutureNews in the gold commodity market indicated in the news headline? Please answer Yes or No.\nText: Gold stays near 3-month high amid delayed Fed rate hike hopes\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FutureNews"
+    },
+    {
+        "id": "headlines85758",
+        "query": "Consider whether the headline discusses past events related to gold.. Can a PastNews in the gold market be inferred from the news headline? Your response should be either Yes or No.\nText: gold jumps $19.30 to settle at $1,225.30/oz\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "PastNews"
+    },
+    {
+        "id": "headlines89485",
+        "query": "Look for any references to future events concerning gold.. Is there a FutureNews in the gold commodity market indicated in the news headline? Please answer Yes or No.\nText: gold posts slight gains ahead of u.s. retail sales, jobless claims data\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FutureNews"
+    },
+    {
+        "id": "headlines87910",
+        "query": "Look for any references to future events concerning gold.. Is the news headline discussing a FutureNews related to gold? Please respond with Yes or No.\nText: gold sees highest close since april after weak jobs report\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FutureNews"
+    },
+    {
+        "id": "headlines91049",
+        "query": "Look for any mention of future gold prices.. Is the news headline discussing a FuturePrice related to gold? Please respond with Yes or No.\nText: mcx goldm january contract rises\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FuturePrice"
+    },
+    {
+        "id": "headlines99667",
+        "query": "Look for indications that the price of gold is increasing.. Is there a Direction Up in the gold commodity market indicated in the news headline? Please answer Yes or No.\nText: Gold shifts lower to log lowest finish since June\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Up"
+    },
+    {
+        "id": "headlines96343",
+        "query": "Look for any references to future events concerning gold.. Does the news headline mention anything about a FutureNews in gold commodities? Please answer Yes or No.\nText: Gold prices to trade higher: Angel Commodities\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FutureNews"
+    },
+    {
+        "id": "headlines97894",
+        "query": "Look for indications that the price of gold is increasing.. Does the news headline mention anything about a Direction Up in gold commodities? Please answer Yes or No.\nText: spot gold prices trading lower\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Up"
+    },
+    {
+        "id": "headlines85659",
+        "query": "Consider whether the headline discusses past events related to gold.. Does the news headline mention anything about a PastNews in gold commodities? Please answer Yes or No.\nText: copper tumbles to 6-year low in risk-off trade, gold at 3-week peak\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "PastNews"
+    },
+    {
+        "id": "headlines83441",
+        "query": "Look for indications that the price of gold is decreasing.. Does the news headline indicate a Direction Down in the context of gold commodities? Your answer should be Yes or No.\nText: gold futures climb to a four-session high\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Down"
+    },
+    {
+        "id": "headlines97345",
+        "query": "Look for indications that the price of gold is increasing.. In the context of gold, is there a Direction Up implied in the news headline? Respond with Yes or No.\nText: why gold and silver are in the dumps\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Up"
+    },
+    {
+        "id": "headlines86808",
+        "query": "Look for indications that the price of gold is stable.. Is there a mention of a Direction Constant in relation to gold in the news headline? Please answer with Yes or No.\nText: gold gains $16; copper ends 12% higher\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Constant"
+    },
+    {
+        "id": "headlines83053",
+        "query": "Look for indications that the price of gold is increasing.. Does the news headline indicate a Direction Up in the context of gold commodities? Your answer should be Yes or No.\nText: gold is beating nearly every investment this year\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Up"
+    },
+    {
+        "id": "headlines95666",
+        "query": "Look for any mention of future gold prices.. Does the news headline suggest a FuturePrice for gold? Your response should be Yes or No.\nText: gold futures edge lower in morning trade\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FuturePrice"
+    },
+    {
+        "id": "headlines94310",
+        "query": "Consider if the headline compares gold with other assets.. Does the news headline suggest a Asset Comparision for gold? Your response should be Yes or No.\nText: gold prices trading mixed in india\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Asset Comparision"
+    },
+    {
+        "id": "headlines83464",
+        "query": "Look for any references to future events concerning gold.. Can a FutureNews in the gold market be inferred from the news headline? Your response should be either Yes or No.\nText: blackrock : there is still a case for gold, just at a lower exposure\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FutureNews"
+    },
+    {
+        "id": "headlines97739",
+        "query": "Consider if the headline compares gold with other assets.. Can a Asset Comparision in the gold market be inferred from the news headline? Your response should be either Yes or No.\nText: dec. gold climbs $19, or 2.6%, to $753.20/oz on globex\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Asset Comparision"
+    },
+    {
+        "id": "headlines97730",
+        "query": "Consider if the headline compares gold with other assets.. Can a Asset Comparision in the gold market be inferred from the news headline? Your response should be either Yes or No.\nText: gold dawdles to end record-breaking year with modest gains\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Asset Comparision"
+    },
+    {
+        "id": "headlines83503",
+        "query": "Look for indications that the price of gold is increasing.. Can a Direction Up in the gold market be inferred from the news headline? Your response should be either Yes or No.\nText: ubs ups '06 gold price forecast 12% to $630/ounce\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Up"
+    },
+    {
+        "id": "headlines82202",
+        "query": "Look for any mention of future gold prices.. Does the news headline mention anything about a FuturePrice in gold commodities? Please answer Yes or No.\nText: gold rate per gram: check out current gold price per gram\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FuturePrice"
+    },
+    {
+        "id": "headlines94959",
+        "query": "Consider whether the headline mentions the price of gold.. In the context of gold, is there a Price or Not implied in the news headline? Respond with Yes or No.\nText: Gold scores largest monthly gain since January\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "Price or Not"
+    },
+    {
+        "id": "headlines93823",
+        "query": "Look for any references to future events concerning gold.. Does the news headline suggest a FutureNews for gold? Your response should be Yes or No.\nText: Gold futures down at Rs 31,348\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FutureNews"
+    },
+    {
+        "id": "headlines85964",
+        "query": "Look for any mention of future gold prices.. Is there a FuturePrice in the gold commodity market indicated in the news headline? Please answer Yes or No.\nText: gold prices steady, central banks in focus\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FuturePrice"
+    },
+    {
+        "id": "headlines98338",
+        "query": "Consider whether the headline references past prices of gold.. Is there a PastPrice in the gold commodity market indicated in the news headline? Please answer Yes or No.\nText: Fed’s is following a playbook written when gold fled the Nazis\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "PastPrice"
+    },
+    {
+        "id": "headlines87985",
+        "query": "Look for indications that the price of gold is increasing.. Does the news headline suggest a Direction Up for gold? Your response should be Yes or No.\nText: govt to keep cad in control by lower gold imports\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Up"
+    },
+    {
+        "id": "headlines82685",
+        "query": "Look for indications that the price of gold is decreasing.. Can a Direction Down in the gold market be inferred from the news headline? Your response should be either Yes or No.\nText: gold ends 1.6% lower at $1,515.30 an ounce\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "Direction Down"
+    },
+    {
+        "id": "headlines90209",
+        "query": "Look for indications that the price of gold is decreasing.. Can a Direction Down in the gold market be inferred from the news headline? Your response should be either Yes or No.\nText: china overtakes india as world’s biggest gold buyer\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Down"
+    },
+    {
+        "id": "headlines91643",
+        "query": "Look for any mention of future gold prices.. Is there a FuturePrice in the gold commodity market indicated in the news headline? Please answer Yes or No.\nText: gold futures fall over 1% in morning trading\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FuturePrice"
+    },
+    {
+        "id": "headlines95389",
+        "query": "Look for any references to future events concerning gold.. In the context of gold, is there a FutureNews implied in the news headline? Respond with Yes or No.\nText: but why do we buy gold on akshaya tritiya?\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "FutureNews"
+    },
+    {
+        "id": "headlines97029",
+        "query": "Consider whether the headline mentions the price of gold.. Can a Price or Not in the gold market be inferred from the news headline? Your response should be either Yes or No.\nText: Gold rebounds from 3-month lows to finish higher\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "Price or Not"
+    },
+    {
+        "id": "headlines86362",
+        "query": "Look for any references to future events concerning gold.. Does the news headline indicate a FutureNews in the context of gold commodities? Your answer should be Yes or No.\nText: gold closes almost $4 lower; copper taps another record\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FutureNews"
+    },
+    {
+        "id": "headlines101644",
+        "query": "Look for any references to future events concerning gold.. Is the news headline discussing a FutureNews related to gold? Please respond with Yes or No.\nText: copper futures head for a four-session loss; gold declines\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FutureNews"
+    },
+    {
+        "id": "headlines88833",
+        "query": "Look for indications that the price of gold is stable.. In the context of gold, is there a Direction Constant implied in the news headline? Respond with Yes or No.\nText: Gold prices settle at highest level since April 28\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Constant"
+    },
+    {
+        "id": "headlines84287",
+        "query": "Look for indications that the price of gold is decreasing.. Is there a Direction Down in the gold commodity market indicated in the news headline? Please answer Yes or No.\nText: dec. gold gains $4.40, or 0.4%, to settle at $1,107.70/oz on comex\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Down"
+    },
+    {
+        "id": "headlines97533",
+        "query": "Consider whether the headline mentions the price of gold.. In the context of gold, is there a Price or Not implied in the news headline? Respond with Yes or No.\nText: gold etfs see rs 539 cr outflows in april-sep fy'17\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Price or Not"
+    },
+    {
+        "id": "headlines87937",
+        "query": "Look for any references to future events concerning gold.. Does the news headline mention anything about a FutureNews in gold commodities? Please answer Yes or No.\nText: gold futures settle near two-week high\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FutureNews"
+    },
+    {
+        "id": "headlines101973",
+        "query": "Look for indications that the price of gold is stable.. Does the news headline indicate a Direction Constant in the context of gold commodities? Your answer should be Yes or No.\nText: Global gold prices tumble to 5-year low as dollar strengthens\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Constant"
+    },
+    {
+        "id": "headlines85272",
+        "query": "Consider whether the headline discusses past events related to gold.. Does the news headline suggest a PastNews for gold? Your response should be Yes or No.\nText: december gold rallies $41, or 3.1%, to $1,378.60\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "PastNews"
+    },
+    {
+        "id": "headlines90543",
+        "query": "Look for indications that the price of gold is stable.. Does the news headline suggest a Direction Constant for gold? Your response should be Yes or No.\nText: three stages of gold\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Constant"
+    },
+    {
+        "id": "headlines102379",
+        "query": "Consider whether the headline references past prices of gold.. Does the news headline mention anything about a PastPrice in gold commodities? Please answer Yes or No.\nText: Gold slips further on selling pressure\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "PastPrice"
+    },
+    {
+        "id": "headlines98385",
+        "query": "Consider whether the headline discusses past events related to gold.. Does the news headline mention anything about a PastNews in gold commodities? Please answer Yes or No.\nText: Gold Prices Down In Asia After Regional Data Sets, India Demand In Focus\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "PastNews"
+    },
+    {
+        "id": "headlines83246",
+        "query": "Look for any mention of future gold prices.. Does the news headline suggest a FuturePrice for gold? Your response should be Yes or No.\nText: Gold deposits found in J&K\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FuturePrice"
+    },
+    {
+        "id": "headlines88329",
+        "query": "Look for indications that the price of gold is stable.. Is there a mention of a Direction Constant in relation to gold in the news headline? Please answer with Yes or No.\nText: Gold loses ground after market shrugs off housing data\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Constant"
+    },
+    {
+        "id": "headlines93023",
+        "query": "Consider if the headline compares gold with other assets.. Is there a mention of a Asset Comparision in relation to gold in the news headline? Please answer with Yes or No.\nText: gold etfs soar as russia probe closes in on trump's inner circle\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Asset Comparision"
+    },
+    {
+        "id": "headlines94387",
+        "query": "Consider whether the headline references past prices of gold.. Is there a mention of a PastPrice in relation to gold in the news headline? Please answer with Yes or No.\nText: august gold taps $683/oz, its highest level since may 10\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "PastPrice"
+    },
+    {
+        "id": "headlines98602",
+        "query": "Look for any references to future events concerning gold.. Can a FutureNews in the gold market be inferred from the news headline? Your response should be either Yes or No.\nText: dec gold futures up $3.70 at $493.20 an ounce\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FutureNews"
+    },
+    {
+        "id": "headlines92752",
+        "query": "Look for any references to future events concerning gold.. Is there a mention of a FutureNews in relation to gold in the news headline? Please answer with Yes or No.\nText: Gold settles down $4.50, or 0.4%, at $1,169.40 an ounce\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FutureNews"
+    },
+    {
+        "id": "headlines83527",
+        "query": "Look for any references to future events concerning gold.. In the context of gold, is there a FutureNews implied in the news headline? Respond with Yes or No.\nText: gold recovers early lost ground, back around $1270 level\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FutureNews"
+    },
+    {
+        "id": "headlines97821",
+        "query": "Consider whether the headline mentions the price of gold.. Is the news headline discussing a Price or Not related to gold? Please respond with Yes or No.\nText: gold futures edge lower in holiday trading\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "Price or Not"
+    },
+    {
+        "id": "headlines99707",
+        "query": "Look for any mention of future gold prices.. Does the news headline mention anything about a FuturePrice in gold commodities? Please answer Yes or No.\nText: Gold ends lower as expectations grow for interest-rate hike later this year\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FuturePrice"
+    },
+    {
+        "id": "headlines87674",
+        "query": "Look for any mention of future gold prices.. Does the news headline mention anything about a FuturePrice in gold commodities? Please answer Yes or No.\nText: current gold rate: check out current gold price\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FuturePrice"
+    },
+    {
+        "id": "headlines96390",
+        "query": "Consider whether the headline mentions the price of gold.. In the news headline, can you identify a Price or Not pertaining to gold? Your response should be Yes or No.\nText: Gold futures hold onto a gain of 0.6% for the week\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "Price or Not"
+    },
+    {
+        "id": "headlines90356",
+        "query": "Look for any mention of future gold prices.. In the news headline, can you identify a FuturePrice pertaining to gold? Your response should be Yes or No.\nText: december gold gains $1.80, or 0.2%, to settle at $1,200.70/oz.\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FuturePrice"
+    },
+    {
+        "id": "headlines101937",
+        "query": "Look for indications that the price of gold is stable.. Is there a mention of a Direction Constant in relation to gold in the news headline? Please answer with Yes or No.\nText: mcx gold has resistance at rs 31200: nirmal bang\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Constant"
+    },
+    {
+        "id": "headlines89358",
+        "query": "Consider whether the headline discusses past events related to gold.. Is the news headline discussing a PastNews related to gold? Please respond with Yes or No.\nText: gold rate per gram: check out current gold price per gram\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "PastNews"
+    },
+    {
+        "id": "headlines95782",
+        "query": "Consider whether the headline references past prices of gold.. Can a PastPrice in the gold market be inferred from the news headline? Your response should be either Yes or No.\nText: gold, silver stocks end week lower\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "PastPrice"
+    },
+    {
+        "id": "headlines100195",
+        "query": "Look for any references to future events concerning gold.. Is there a mention of a FutureNews in relation to gold in the news headline? Please answer with Yes or No.\nText: gold futures accelerate losses\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FutureNews"
+    },
+    {
+        "id": "headlines89629",
+        "query": "Look for any references to future events concerning gold.. Is there a FutureNews in the gold commodity market indicated in the news headline? Please answer Yes or No.\nText: amex gold bugs index falls 3.6% to close at 309.27\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FutureNews"
+    },
+    {
+        "id": "headlines85505",
+        "query": "Look for any mention of future gold prices.. Does the news headline provide information on a FuturePrice regarding gold? Your answer should be either Yes or No.\nText: Gold jumps to 7-week high on dollar slump; silver at 15-month top\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FuturePrice"
+    },
+    {
+        "id": "headlines85277",
+        "query": "Look for indications that the price of gold is decreasing.. Can a Direction Down in the gold market be inferred from the news headline? Your response should be either Yes or No.\nText: gold futures gain rs 124 on global cues\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Down"
+    },
+    {
+        "id": "headlines82491",
+        "query": "Consider whether the headline discusses past events related to gold.. Is there a mention of a PastNews in relation to gold in the news headline? Please answer with Yes or No.\nText: gold prices up by rs 125 to regain rs 30,000 level\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "PastNews"
+    },
+    {
+        "id": "headlines83220",
+        "query": "Consider whether the headline discusses past events related to gold.. In the news headline, can you identify a PastNews pertaining to gold? Your response should be Yes or No.\nText: gold conflicted by fed rate hike talk, could rally in case of a trump victory\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "PastNews"
+    },
+    {
+        "id": "headlines99126",
+        "query": "Consider whether the headline mentions the price of gold.. Does the news headline suggest a Price or Not for gold? Your response should be Yes or No.\nText: Dec. gold falls $1, or less than 0.1%, to settle at $1,273.50/oz\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "Price or Not"
+    },
+    {
+        "id": "headlines101565",
+        "query": "Consider whether the headline mentions the price of gold.. In the news headline, can you identify a Price or Not pertaining to gold? Your response should be Yes or No.\nText: Expect Gold to trade negative: Sushil Finance\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "Price or Not"
+    },
+    {
+        "id": "headlines83179",
+        "query": "Look for indications that the price of gold is increasing.. Is there a mention of a Direction Up in relation to gold in the news headline? Please answer with Yes or No.\nText: intl fc stone : an efficient and effective platform for accessing physical gold\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Up"
+    },
+    {
+        "id": "headlines83673",
+        "query": "Consider whether the headline mentions the price of gold.. Does the news headline mention anything about a Price or Not in gold commodities? Please answer Yes or No.\nText: gold etf gains 8% on record trading volume\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "Price or Not"
+    },
+    {
+        "id": "headlines89967",
+        "query": "Look for indications that the price of gold is stable.. Is there a mention of a Direction Constant in relation to gold in the news headline? Please answer with Yes or No.\nText: seventy-eight billion reasons why bitcoin's the new gold\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Constant"
+    },
+    {
+        "id": "headlines85865",
+        "query": "Look for any mention of future gold prices.. Does the news headline suggest a FuturePrice for gold? Your response should be Yes or No.\nText: gold plummets as manufacturing gauge sparks dollar rally\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FuturePrice"
+    },
+    {
+        "id": "headlines83990",
+        "query": "Look for indications that the price of gold is decreasing.. Does the news headline provide information on a Direction Down regarding gold? Your answer should be either Yes or No.\nText: gold tops rs 29,000-mark, up rs 185 on jewellers' buying\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Down"
+    },
+    {
+        "id": "headlines98701",
+        "query": "Look for any references to future events concerning gold.. Can a FutureNews in the gold market be inferred from the news headline? Your response should be either Yes or No.\nText: gold falls $5 to settle at $1,298.30/oz\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FutureNews"
+    },
+    {
+        "id": "headlines82637",
+        "query": "Consider if the headline compares gold with other assets.. In the context of gold, is there a Asset Comparision implied in the news headline? Respond with Yes or No.\nText: gold futures pare loss; down $1.30 at $1,364.20\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Asset Comparision"
+    },
+    {
+        "id": "headlines88100",
+        "query": "Consider if the headline compares gold with other assets.. Does the news headline mention anything about a Asset Comparision in gold commodities? Please answer Yes or No.\nText: june gold opens up $5.90 at $923.50 an ounce on nymex\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Asset Comparision"
+    },
+    {
+        "id": "headlines93277",
+        "query": "Look for indications that the price of gold is increasing.. In the news headline, can you identify a Direction Up pertaining to gold? Your response should be Yes or No.\nText: june gold gains $2.80, or 0.2%, to finish at $1,254/oz.\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "Direction Up"
+    },
+    {
+        "id": "headlines86223",
+        "query": "Look for indications that the price of gold is stable.. Does the news headline provide information on a Direction Constant regarding gold? Your answer should be either Yes or No.\nText: gold futures close near one-week low\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Constant"
+    },
+    {
+        "id": "headlines93374",
+        "query": "Consider if the headline compares gold with other assets.. Is there a mention of a Asset Comparision in relation to gold in the news headline? Please answer with Yes or No.\nText: gold drops further on stockists offerings\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Asset Comparision"
+    },
+    {
+        "id": "headlines91831",
+        "query": "Consider whether the headline references past prices of gold.. Is the news headline discussing a PastPrice related to gold? Please respond with Yes or No.\nText: Gold prices rebound slightly in Asia, demand cues wanted\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "PastPrice"
+    },
+    {
+        "id": "headlines101010",
+        "query": "Look for indications that the price of gold is stable.. Does the news headline mention anything about a Direction Constant in gold commodities? Please answer Yes or No.\nText: mcx gold, silver prices to trade sideways to positive:angel\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "Direction Constant"
+    },
+    {
+        "id": "headlines88419",
+        "query": "Look for indications that the price of gold is stable.. Is the news headline discussing a Direction Constant related to gold? Please respond with Yes or No.\nText: russia-china real gold standard means end of us dollar dominance\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Constant"
+    },
+    {
+        "id": "headlines84673",
+        "query": "Look for indications that the price of gold is increasing.. Is the news headline discussing a Direction Up related to gold? Please respond with Yes or No.\nText: gold, silver trade higher on rising geo-political unrest\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "Direction Up"
+    },
+    {
+        "id": "headlines86288",
+        "query": "Look for any mention of future gold prices.. Is the news headline discussing a FuturePrice related to gold? Please respond with Yes or No.\nText: april gold down $9.20 at $918.80 an ounce on nymex\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FuturePrice"
+    },
+    {
+        "id": "headlines88608",
+        "query": "Look for indications that the price of gold is stable.. In the news headline, can you identify a Direction Constant pertaining to gold? Your response should be Yes or No.\nText: feb gold last at $557.70/oz, up $13.20, or 2.4%\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Constant"
+    },
+    {
+        "id": "headlines100579",
+        "query": "Consider whether the headline references past prices of gold.. Is the news headline discussing a PastPrice related to gold? Please respond with Yes or No.\nText: silver and gold futures ease on global leads\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "PastPrice"
+    },
+    {
+        "id": "headlines98349",
+        "query": "Consider whether the headline discusses past events related to gold.. Is there a mention of a PastNews in relation to gold in the news headline? Please answer with Yes or No.\nText: feb gold up 10 cents at $650.70/oz in morning trading\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "PastNews"
+    },
+    {
+        "id": "headlines83989",
+        "query": "Look for indications that the price of gold is increasing.. Does the news headline mention anything about a Direction Up in gold commodities? Please answer Yes or No.\nText: gold tops rs 29,000-mark, up rs 185 on jewellers' buying\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "Direction Up"
+    },
+    {
+        "id": "headlines89060",
+        "query": "Look for any mention of future gold prices.. Does the news headline suggest a FuturePrice for gold? Your response should be Yes or No.\nText: gold sinks on u.s. economic data, comments from ecb's draghi\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FuturePrice"
+    },
+    {
+        "id": "headlines87292",
+        "query": "Look for indications that the price of gold is increasing.. Is there a mention of a Direction Up in relation to gold in the news headline? Please answer with Yes or No.\nText: kirkland lake gold to buy out venture partner\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Up"
+    },
+    {
+        "id": "headlines86113",
+        "query": "Look for indications that the price of gold is increasing.. Is there a mention of a Direction Up in relation to gold in the news headline? Please answer with Yes or No.\nText: spot gold prices up 30 cents at $956.80/troy ounce\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "Direction Up"
+    },
+    {
+        "id": "headlines89881",
+        "query": "Look for any references to future events concerning gold.. In the news headline, can you identify a FutureNews pertaining to gold? Your response should be Yes or No.\nText: gold rate today: gold trades in the red in morning deals; silver up\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FutureNews"
+    },
+    {
+        "id": "headlines88286",
+        "query": "Look for any mention of future gold prices.. Is there a mention of a FuturePrice in relation to gold in the news headline? Please answer with Yes or No.\nText: june gold taps $669.30/oz, highest futures price since '80\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FuturePrice"
+    },
+    {
+        "id": "headlines90787",
+        "query": "Consider whether the headline references past prices of gold.. Does the news headline provide information on a PastPrice regarding gold? Your answer should be either Yes or No.\nText: gold hits 1-week high on falling dollar, high oil\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "PastPrice"
+    },
+    {
+        "id": "headlines85238",
+        "query": "Consider if the headline compares gold with other assets.. Is there a Asset Comparision in the gold commodity market indicated in the news headline? Please answer Yes or No.\nText: dhanteras: festive demand, global cues push up gold futures\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Asset Comparision"
+    },
+    {
+        "id": "headlines88063",
+        "query": "Look for any references to future events concerning gold.. Does the news headline suggest a FutureNews for gold? Your response should be Yes or No.\nText: Gold prices extend gain after March jobs figures\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FutureNews"
+    },
+    {
+        "id": "headlines98136",
+        "query": "Consider whether the headline mentions the price of gold.. Does the news headline mention anything about a Price or Not in gold commodities? Please answer Yes or No.\nText: spot gold bid at $380.30 an ounce, down $2.20\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "Price or Not"
+    },
+    {
+        "id": "headlines91914",
+        "query": "Consider whether the headline discusses past events related to gold.. Is there a mention of a PastNews in relation to gold in the news headline? Please answer with Yes or No.\nText: weak dollar acts as a boon for gold price rally\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "PastNews"
+    },
+    {
+        "id": "headlines82628",
+        "query": "Consider if the headline compares gold with other assets.. In the context of gold, is there a Asset Comparision implied in the news headline? Respond with Yes or No.\nText: gold trades flat; traders seek price direction\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Asset Comparision"
+    },
+    {
+        "id": "headlines90292",
+        "query": "Consider whether the headline references past prices of gold.. Is the news headline discussing a PastPrice related to gold? Please respond with Yes or No.\nText: Gold prices settle lower to end a multisession rise\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "PastPrice"
+    },
+    {
+        "id": "headlines90368",
+        "query": "Consider if the headline compares gold with other assets.. In the news headline, can you identify a Asset Comparision pertaining to gold? Your response should be Yes or No.\nText: dec. gold down $35, or 4.1%, at $829/oz on globex\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Asset Comparision"
+    },
+    {
+        "id": "headlines89357",
+        "query": "Look for any mention of future gold prices.. Does the news headline mention anything about a FuturePrice in gold commodities? Please answer Yes or No.\nText: gold rate per gram: check out current gold price per gram\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FuturePrice"
+    },
+    {
+        "id": "headlines91183",
+        "query": "Consider whether the headline references past prices of gold.. Does the news headline mention anything about a PastPrice in gold commodities? Please answer Yes or No.\nText: december gold gains $13, or 1%, to settle at $1,372.60/oz.\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "PastPrice"
+    },
+    {
+        "id": "headlines93441",
+        "query": "Look for indications that the price of gold is stable.. In the context of gold, is there a Direction Constant implied in the news headline? Respond with Yes or No.\nText: Gold logs a 1.1% monthly loss in October\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Constant"
+    },
+    {
+        "id": "headlines98590",
+        "query": "Consider whether the headline references past prices of gold.. Is the news headline discussing a PastPrice related to gold? Please respond with Yes or No.\nText: gold price falls as dollar strengthens\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "PastPrice"
+    },
+    {
+        "id": "headlines90250",
+        "query": "Look for any references to future events concerning gold.. Is there a FutureNews in the gold commodity market indicated in the news headline? Please answer Yes or No.\nText: June gold jumps $21.10, or 1.7%, to $1,257.50/oz\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FutureNews"
+    },
+    {
+        "id": "headlines99050",
+        "query": "Look for any mention of future gold prices.. Does the news headline indicate a FuturePrice in the context of gold commodities? Your answer should be Yes or No.\nText: Dec. gold settles at $1,253.80/oz, down $2.10, or 0.2%\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FuturePrice"
+    },
+    {
+        "id": "headlines97352",
+        "query": "Consider if the headline compares gold with other assets.. In the news headline, can you identify a Asset Comparision pertaining to gold? Your response should be Yes or No.\nText: why gold and silver are in the dumps\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "Asset Comparision"
+    },
+    {
+        "id": "headlines96393",
+        "query": "Look for indications that the price of gold is stable.. Is the news headline discussing a Direction Constant related to gold? Please respond with Yes or No.\nText: Gold futures hold onto a gain of 0.6% for the week\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Constant"
+    },
+    {
+        "id": "headlines93129",
+        "query": "Consider whether the headline discusses past events related to gold.. Does the news headline mention anything about a PastNews in gold commodities? Please answer Yes or No.\nText: Dec. gold settles at $1,351.90/oz, up $5.20, or 0.4%\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "PastNews"
+    },
+    {
+        "id": "headlines91460",
+        "query": "Look for indications that the price of gold is decreasing.. Does the news headline suggest a Direction Down for gold? Your response should be Yes or No.\nText: gold prices gain in early asia on safe haven demand\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Down"
+    },
+    {
+        "id": "headlines83810",
+        "query": "Look for indications that the price of gold is decreasing.. Can a Direction Down in the gold market be inferred from the news headline? Your response should be either Yes or No.\nText: gold ends lower, logs fifth weekly loss in a row\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "Direction Down"
+    },
+    {
+        "id": "headlines91442",
+        "query": "Look for indications that the price of gold is decreasing.. Does the news headline indicate a Direction Down in the context of gold commodities? Your answer should be Yes or No.\nText: August gold down $19.20, or 1.5%, to $1,274/oz\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "Direction Down"
+    },
+    {
+        "id": "headlines89598",
+        "query": "Look for indications that the price of gold is stable.. Can a Direction Constant in the gold market be inferred from the news headline? Your response should be either Yes or No.\nText: Gold futures fall to Rs 26,029 on global cues\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Constant"
+    },
+    {
+        "id": "headlines93187",
+        "query": "Look for indications that the price of gold is increasing.. Can a Direction Up in the gold market be inferred from the news headline? Your response should be either Yes or No.\nText: gold futures lose more than $21 in three days\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "Direction Up"
+    },
+    {
+        "id": "headlines87747",
+        "query": "Consider whether the headline discusses past events related to gold.. In the news headline, can you identify a PastNews pertaining to gold? Your response should be Yes or No.\nText: ibm to manage gold fields' south africa it systems\nAnswer:",
+        "answer": "Yes",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 0,
+        "label_type": "PastNews"
+    },
+    {
+        "id": "headlines87026",
+        "query": "Look for any mention of future gold prices.. Is there a mention of a FuturePrice in relation to gold in the news headline? Please answer with Yes or No.\nText: june gold rises $4.40 to $1,498/oz in ny\nAnswer:",
+        "answer": "No",
+        "choices": [
+            "Yes",
+            "No"
+        ],
+        "gold": 1,
+        "label_type": "FuturePrice"
+    }
+]
