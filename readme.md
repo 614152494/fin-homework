@@ -40,4 +40,11 @@ print(data)
  'gold': 2}
 ```
 ## prompt
-请解压
+请解压prps_all.zip 内有五个文件夹
+以prps_fomc为例子，内有12个pth文件，对应着不同格式（text，yaml，md，json）的prompt，shot为结尾的含有一个one-shot例子，cot结尾的含有一句特殊的（system）prompt，Please analyze this problem step by step.
+使用以下方式，读取pth文件
+```python
+import torch
+data = torch.load('finqa_ner_json_cot.pth', weights_only=False)
+```
+data为一个列表，列表元素为格式化好的prompt
